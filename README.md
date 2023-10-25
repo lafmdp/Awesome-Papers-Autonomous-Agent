@@ -11,7 +11,7 @@ Thus, the key of an agent is that it can achieve goals, acquire knowledge and co
 
 Specifically, this repo is interested in two types of agent: RL-based agent and LLM-based agent.
 
-![Agent](./figs/agent-collection.png)
+![](figs/agent-collection.png)
 
 
 **Table of Contents**  
