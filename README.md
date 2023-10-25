@@ -1,7 +1,6 @@
-
+![](figs/agent-collection.png)
 
 # Awesome-Papers-Autonomous-Agent
-
 
 This is a collection of recent papers focusing on autonomous agent. Here is how Wikipedia defines <i>Agent</i>:
 
@@ -10,9 +9,6 @@ This is a collection of recent papers focusing on autonomous agent. Here is how 
 Thus, the key of an agent is that it can achieve goals, acquire knowledge and continually improveme.
 
 Specifically, this repo is interested in two types of agent: RL-based agent and LLM-based agent.
-
-![](figs/agent-collection.png)
-
 
 **Table of Contents**  
 
