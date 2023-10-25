@@ -106,7 +106,7 @@ Specifically, this repo is interested in two types of agent: RL-based agent and 
 
 - [Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds](https://openreview.net/forum?id=NltzxpG0nz)
 - [Multimodal Web Navigation with Instruction-Finetuned Foundation Models](https://openreview.net/forum?id=efFmBWioSc)
-- [We propose Auto-UI, a multimodal model with a novel chain-of-action technique. Auto-UI can directly interact with the user interface, bypassing the need for environment parsing or reliance on application-dependent APIs.](https://openreview.net/forum?id=iSAgvYhZzg)
+- [You Only Look at Screens: Multimodal Chain-of-Action Agents](https://openreview.net/forum?id=iSAgvYhZzg)
 - [Learning Embodied Vision-Language Programming From Instruction, Exploration, and Environmental Feedback](https://openreview.net/forum?id=VUA9LSmC2r)
 - [An Embodied Generalist Agent in 3D World](https://openreview.net/forum?id=4QaKdsh15T)
 
