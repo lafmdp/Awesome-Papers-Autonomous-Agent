@@ -204,6 +204,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 
 
 ### Algorithm design
+- [NeurIPS'23] [SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://arxiv.org/abs/2305.17390) [[github](https://github.com/yuchenlin/swiftsage)]
 - [NeurIPS'23] [AdaPlanner: Adaptive Planning from Feedback with Language Models](https://openreview.net/forum?id=rnKgbKmelt) [[github](https://github.com/haotiansun14/AdaPlanner)]
 - [Prospector: Improving LLM Agents with Self-Asking and Trajectory Ranking](https://openreview.net/forum?id=YKK1jXEWja)
 - [Formally Specifying the High-Level Behavior of LLM-Based Agents](https://openreview.net/forum?id=FRxDrdysBt)
