@@ -71,11 +71,12 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 - [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/assets/rt2.pdf) [[blog](https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/)]
 - [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) [[blog](https://deepmind.google/discover/blog/scaling-up-learning-across-many-different-robot-types/)]
 - [NeurIPS'23] [Guide Your Agent with Adaptive Multimodal Rewards](https://openreview.net/attachment?id=G8nal7MpIQ&name=pdf) [[project](https://sites.google.com/view/2023arp)]
+- [LEO: An Embodied Generalist Agent in 3D World](https://arxiv.org/abs/2311.12871) [[project](https://embodied-generalist.github.io/)]
+
 
 ### Build agent based on World model
 - [Learning to Model the World with Language](https://openreview.net/forum?id=eWLOoaShEH)
 - [MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning](https://openreview.net/forum?id=1RE0H6mU7M)
-
 
 
 ### Language as knowledge 
@@ -142,6 +143,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 - [You Only Look at Screens: Multimodal Chain-of-Action Agents](https://openreview.net/forum?id=iSAgvYhZzg)
 - [Learning Embodied Vision-Language Programming From Instruction, Exploration, and Environmental Feedback](https://openreview.net/forum?id=VUA9LSmC2r)
 - [An Embodied Generalist Agent in 3D World](https://openreview.net/forum?id=4QaKdsh15T)
+- [JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models](https://arxiv.org/abs/2311.05997)
 
 ### Train LLM for generalization & adaptation
 
@@ -194,8 +196,6 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 - [LLM-Deliberation: Evaluating LLMs with Interactive Multi-Agent Negotiation Game](https://openreview.net/forum?id=cfL8zApofK)
 - [Evaluating Large Language Models at Evaluating Instruction Following](https://openreview.net/forum?id=tr0KidwPLc)
 - [CivRealm: A Learning and Reasoning Odyssey for Decision-Making Agents](https://openreview.net/forum?id=UBVNwD3hPN)
-
-
 
 ### Applications
 
