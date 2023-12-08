@@ -91,7 +91,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 - [ICLR'23] [Reward Design with Language Models](https://openreview.net/forum?id=10uNUgI5Kl) [[code](https://github.com/minaek/reward_design_with_llms)]
 - [ICML'23] [RLang: A Declarative Language for Describing Partial World Knowledge to Reinforcement Learning Agents](https://icml.cc/virtual/2023/poster/24583) [[Poster](https://icml.cc/media/PosterPDFs/ICML%202023/24583.png?t=1688077847.801905)]
 - [ICML'23] [Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling](https://icml.cc/virtual/2023/poster/24286) [[Project](https://deckardagent.github.io/)][[Code](https://github.com/DeckardAgent/deckard)]
-- [ICML'23] [https://icml.cc/virtual/2023/poster/23938](https://icml.cc/virtual/2023/poster/23938)
+- [ICML'23] [Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning](https://icml.cc/virtual/2023/poster/23938)
 - [Leveraging Large Language Models for Optimised Coordination in Textual Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=1PPjf4wife)
 - [Text2Reward: Dense Reward Generation with Language Models for Reinforcement Learning](https://openreview.net/forum?id=tUM39YTRxH)
 - [Language to Rewards for Robotic Skill Synthesis](https://language-to-reward.github.io )
