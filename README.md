@@ -20,7 +20,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 ## Update history
 
 
-
+- 2023/12/08: Add papers accepted by [ICML'23](https://icml.cc/virtual/2023/papers.html?filter=titles) and [ICLR'23]() :rocket:
 - 2023/11/08: Add papers accepted by [NeurIPS'23](https://openreview.net/group?id=NeurIPS.cc/2023/Conference&referrer=%5BHomepage%5D(%2F)). Add related links (project page or github) to these accepted papers :tada:
 - 2023/10/25: Classify all papers based on their research topics. Check ToC for the standard of classification :clap:
 - 2023/10/18: Release first version of collection, including papers submitted to [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference) :rocket:
@@ -30,31 +30,29 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Awesome-Papers-Autonomous-Agent](#markdown-header-awesome-papers-autonomous-agent)
-    - [Update history](#markdown-header-update-history)
-    - [RL-based agent](#markdown-header-rl-based-agent)
-        - [Instruction following](#markdown-header-instruction-following)
-        - [Build agent based on World model](#markdown-header-build-agent-based-on-world-model)
-        - [Language as knowledge](#markdown-header-language-as-knowledge)
-        - [LLM as a tool](#markdown-header-llm-as-a-tool)
-        - [Generalization across tasks](#markdown-header-generalization-across-tasks)
-        - [Continual learning](#markdown-header-continual-learning)
-        - [Combine RL and LLM](#markdown-header-combine-rl-and-llm)
-        - [Transformer-based policy](#markdown-header-transformer-based-policy)
-        - [Trajectory to language](#markdown-header-trajectory-to-language)
-        - [Trajectory predication](#markdown-header-trajectory-predication)
-        - [Others](#markdown-header-others)
-    - [LLM-based agent](#markdown-header-llm-based-agent)
-        - [Multimodal](#markdown-header-multimodal)
-        - [Train LLM for generalization & adaptation](#markdown-header-train-llm-for-generalization-adaptation)
-        - [Task-specific designing](#markdown-header-task-specific-designing)
-        - [Multi-agent (e.g., society, coperation)](#markdown-header-multi-agent-eg-society-coperation)
-        - [Experimental analysis](#markdown-header-experimental-analysis)
-        - [Benchmark & Dataset](#markdown-header-benchmark-dataset)
-        - [Applications](#markdown-header-applications)
-        - [Algorithm design](#markdown-header-algorithm-design)
-        - [Combined with RL](#markdown-header-combined-with-rl)
-        - [Others](#markdown-header-others_1)
+- [RL-based agent](#rl-based-agent)
+  - [Instruction following](#instruction-following)
+  - [Build agent based on World model](#build-agent-based-on-world-model)
+  - [Language as knowledge](#language-as-knowledge)
+  - [LLM as a tool](#llm-as-a-tool)
+  - [Generalization across tasks](#generalization-across-tasks)
+  - [Continual learning](#continual-learning)
+  - [Combine RL and LLM](#combine-rl-and-llm)
+  - [Transformer-based policy](#transformer-based-policy)
+  - [Trajectory to language](#trajectory-to-language)
+  - [Trajectory predication](#trajectory-predication)
+  - [Others](#others)
+- [LLM-based agent](#llm-based-agent)
+  - [Multimodal](#multimodal)
+  - [Train LLM for generalization & adaptation](#train-llm-for-generalization--adaptation)
+  - [Task-specific designing](#task-specific-designing)
+  - [Multi-agent (e.g., society, coperation)](#multi-agent-eg-society-coperation)
+  - [Experimental analysis](#experimental-analysis)
+  - [Benchmark & Dataset](#benchmark--dataset)
+  - [Applications](#applications)
+  - [Algorithm design](#algorithm-design)
+  - [Combined with RL](#combined-with-rl)
+  - [Others](#others-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -65,14 +63,15 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 
 
 ### Instruction following
-- [Natural Language-conditioned Reinforcement Learning with Inside-out Task Language Development and Translation](https://arxiv.org/abs/2302.09368)
+- [NeurIPS'23] [Natural Language-conditioned Reinforcement Learning with Inside-out Task Language Development and Translation](https://arxiv.org/abs/2302.09368)
+- [NeurIPS'23] [Guide Your Agent with Adaptive Multimodal Rewards](https://openreview.net/attachment?id=G8nal7MpIQ&name=pdf) [[project](https://sites.google.com/view/2023arp)]
 - [Compositional Instruction Following with Language Models and Reinforcement Learning](https://openreview.net/forum?id=lIwp1C1eSK)
 - [RT-1: Robotics Transformer for Real-World Control at Scale](https://arxiv.org/abs/2212.06817) [[blog](https://blog.research.google/2022/12/rt-1-robotics-transformer-for-real.html)]
 - [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/assets/rt2.pdf) [[blog](https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/)]
 - [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) [[blog](https://deepmind.google/discover/blog/scaling-up-learning-across-many-different-robot-types/)]
-- [NeurIPS'23] [Guide Your Agent with Adaptive Multimodal Rewards](https://openreview.net/attachment?id=G8nal7MpIQ&name=pdf) [[project](https://sites.google.com/view/2023arp)]
 
 ### Build agent based on World model
+- [ICLR'23 Oral] [Transformers are Sample-Efficient World Models](https://openreview.net/forum?id=vhFu1Acb0xb) [[code](https://github.com/eloialonso/iris)]
 - [Learning to Model the World with Language](https://openreview.net/forum?id=eWLOoaShEH)
 - [MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning](https://openreview.net/forum?id=1RE0H6mU7M)
 
@@ -87,6 +86,10 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 ### LLM as a tool
 
 - [NeurIPS'23] [Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents](https://openreview.net/forum?id=Ny3GcHLyzj)
+- [ICLR'23] [Reward Design with Language Models](https://openreview.net/forum?id=10uNUgI5Kl) [[code](https://github.com/minaek/reward_design_with_llms)]
+- [ICML'23] [RLang: A Declarative Language for Describing Partial World Knowledge to Reinforcement Learning Agents](https://icml.cc/virtual/2023/poster/24583) [[Poster](https://icml.cc/media/PosterPDFs/ICML%202023/24583.png?t=1688077847.801905)]
+- [ICML'23] [Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling](https://icml.cc/virtual/2023/poster/24286) [[Project](https://deckardagent.github.io/)][[Code](https://github.com/DeckardAgent/deckard)]
+- [ICML'23] [https://icml.cc/virtual/2023/poster/23938](https://icml.cc/virtual/2023/poster/23938)
 - [Leveraging Large Language Models for Optimised Coordination in Textual Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=1PPjf4wife)
 - [Text2Reward: Dense Reward Generation with Language Models for Reinforcement Learning](https://openreview.net/forum?id=tUM39YTRxH)
 - [Language to Rewards for Robotic Skill Synthesis](https://language-to-reward.github.io )
@@ -118,6 +121,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 ### Trajectory to language
 - [NeurIPS'23] [State2Explanation: Concept-Based Explanations to Benefit Agent Learning and User Understanding](https://openreview.net/attachment?id=xGz0wAIJrS&name=pdf)
 - [NeurIPS'23] [Semantic HELM: A Human-Readable Memory for Reinforcement Learning](https://openreview.net/pdf?id=ebMPmx5mr7)
+- [ICML'23] [Distilling Internet-Scale Vision-Language Models into Embodied Agents](https://icml.cc/virtual/2023/poster/24664)
 - [Understanding Your Agent: Leveraging Large Language Models for Behavior Explanation](https://openreview.net/forum?id=PKsTHJXn4d)
 
 
@@ -137,11 +141,14 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 
 ### Multimodal
 
+- [ICML'23] [PaLM-E: An Embodied Multimodal Language Model](https://icml.cc/virtual/2023/poster/23969)
 - [Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds](https://openreview.net/forum?id=NltzxpG0nz)
 - [Multimodal Web Navigation with Instruction-Finetuned Foundation Models](https://openreview.net/forum?id=efFmBWioSc)
 - [You Only Look at Screens: Multimodal Chain-of-Action Agents](https://openreview.net/forum?id=iSAgvYhZzg)
 - [Learning Embodied Vision-Language Programming From Instruction, Exploration, and Environmental Feedback](https://openreview.net/forum?id=VUA9LSmC2r)
 - [An Embodied Generalist Agent in 3D World](https://openreview.net/forum?id=4QaKdsh15T)
+
+
 
 ### Train LLM for generalization & adaptation
 
@@ -185,6 +192,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 
 ### Benchmark & Dataset
 
+- [ICLR'23] [Task Ambiguity in Humans and Language Models](https://openreview.net/forum?id=QrnDe_9ZFd8) [[code](https://github.com/kunhanda/task_ambiguity)]
 - [SmartPlay : A Benchmark for LLMs as Intelligent Agents](https://openreview.net/forum?id=S2oTVrlcp3)
 - [AgentBench: Evaluating LLMs as Agents](https://openreview.net/forum?id=zAdUB0aCTQ)
 - [Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena](https://openreview.net/forum?id=crMMk4I8Wy)
@@ -204,6 +212,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 
 
 ### Algorithm design
+- [ICLR'23 Oral] [ReAct: Synergizing Reasoning and Acting in Language Models](https://openreview.net/forum?id=WE_vluYUL-X) [[code](https://www.catalyzex.com/paper/arxiv:2210.03629/code)]
 - [NeurIPS'23] [AdaPlanner: Adaptive Planning from Feedback with Language Models](https://openreview.net/forum?id=rnKgbKmelt) [[github](https://github.com/haotiansun14/AdaPlanner)]
 - [Prospector: Improving LLM Agents with Self-Asking and Trajectory Ranking](https://openreview.net/forum?id=YKK1jXEWja)
 - [Formally Specifying the High-Level Behavior of LLM-Based Agents](https://openreview.net/forum?id=FRxDrdysBt)
