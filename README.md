@@ -19,7 +19,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 
 ## Update history
 
-
+- 2024/01/31: Add a special list for surveys on autonomous agent.
 - 2023/12/08: Add papers accepted by [ICML'23](https://icml.cc/virtual/2023/papers.html?filter=titles) and [ICLR'23]() :rocket:
 - 2023/11/08: Add papers accepted by [NeurIPS'23](https://openreview.net/group?id=NeurIPS.cc/2023/Conference&referrer=%5BHomepage%5D(%2F)). Add related links (project page or github) to these accepted papers :tada:
 - 2023/10/25: Classify all papers based on their research topics. Check ToC for the standard of classification :clap:
@@ -58,6 +58,11 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 
 
 ------
+
+## Surveys
+- [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432.pdf?trk=public_post_comment-text)
+- [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf)
+
 
 ## RL-based agent
 
