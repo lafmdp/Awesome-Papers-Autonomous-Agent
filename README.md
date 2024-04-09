@@ -187,6 +187,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 - [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://openreview.net/forum?id=EHg5GDnyq1)
 - [Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View](https://openreview.net/forum?id=ueqTjOcuLc)
 - [REX: Rapid Exploration and eXploitation for AI agents](https://openreview.net/forum?id=8TAGx549Ns)
+- [Emergence of Social Norms in Large Language Model-based Agent Societies](https://arxiv.org/abs/2403.08251)
 
 
 ### Experimental analysis
