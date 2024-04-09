@@ -30,6 +30,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
+- [Surveys](#surveys)
 - [RL-based agent](#rl-based-agent)
   - [Instruction following](#instruction-following)
   - [Build agent based on World model](#build-agent-based-on-world-model)
