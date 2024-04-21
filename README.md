@@ -1,6 +1,9 @@
 ![](figs/agent-collection.png)
 
-# Awesome-Papers-Autonomous-Agent
+<div align="center">
+    <h1>Awesome Papers Autonomous Agent</h1>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+</div>
 
 This is a collection of recent papers focusing on autonomous agent. Here is how Wikipedia defines Agent:
 
