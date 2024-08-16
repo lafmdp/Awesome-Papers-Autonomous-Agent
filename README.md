@@ -180,6 +180,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 - [Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4](https://arxiv.org/abs/2309.17277)
 
 ### Multi-agent (e.g., society, coperation)
+- [CoMM: Collaborative Multi-Agent, Multi-Reasoning-Path Prompting for Complex Problem Solving](https://arxiv.org/abs/2404.17729)
 - [Building Cooperative Embodied Agents Modularly with Large Language Models](https://openreview.net/forum?id=EnXJfQqy0K)
 - [OKR-Agent: An Object and Key Results Driven Agent System with Hierarchical Self-Collaboration and Self-Evaluation](https://openreview.net/forum?id=Mngdhgi711)
 - [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://openreview.net/forum?id=VtmBAGCN7o)
