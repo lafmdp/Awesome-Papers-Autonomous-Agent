@@ -234,6 +234,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 - [Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game](https://openreview.net/forum?id=N1gmpVd4iE)
 
 ### Others
+- [AgentSquare: Automatic LLM Agent Search in Modular Design Space](https://arxiv.org/abs/2410.06153)[[Project page](https://tsinghua-fib-lab.github.io/AgentSquare_website/)][[Github](https://github.com/tsinghua-fib-lab/AgentSquare)]
 - [LUMOS: Towards Language Agents that are Unified, Modular, and Open Source](https://openreview.net/forum?id=VmnWoLbzCS)
 - [Lemur: Harmonizing Natural Language and Code for Language Agents](https://openreview.net/forum?id=hNhwSmtXRh)
 - [Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models](https://openreview.net/forum?id=6LNTSrJjBe)
