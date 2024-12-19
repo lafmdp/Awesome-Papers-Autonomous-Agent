@@ -234,6 +234,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 - [Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game](https://openreview.net/forum?id=N1gmpVd4iE)
 
 ### Others
+- [NeurIPS'24] [Can Graph Learning Improve Planning in LLM-based Agents?](https://arxiv.org/abs/2405.19119) [[code](https://github.com/WxxShirley/GNN4TaskPlan)] [[chinese blog](https://zhuanlan.zhihu.com/p/936340518)] [[english blog](https://medium.com/@xxwu1120/llms-still-cant-plan-can-graph-learning-improve-it-15b7806288be)]
 - [AgentSquare: Automatic LLM Agent Search in Modular Design Space](https://arxiv.org/abs/2410.06153)[[Project page](https://tsinghua-fib-lab.github.io/AgentSquare_website/)][[Github](https://github.com/tsinghua-fib-lab/AgentSquare)]
 - [LUMOS: Towards Language Agents that are Unified, Modular, and Open Source](https://openreview.net/forum?id=VmnWoLbzCS)
 - [Lemur: Harmonizing Natural Language and Code for Language Agents](https://openreview.net/forum?id=hNhwSmtXRh)
