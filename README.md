@@ -17,6 +17,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 
 ------
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested autonomous AI agent system prompts for Claude Code multi-agent orchestration with task registry and quality gates. MIT licensed.
 ## Update history
 
 - 2024/01/31: Add a special list for surveys on autonomous agent.
