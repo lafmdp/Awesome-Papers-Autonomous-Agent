@@ -203,6 +203,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 - [CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and Generalization](https://openreview.net/forum?id=d5DGVHMdsC)
 
 ### Benchmark & Dataset
+- [arXiv'26] [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) [[code](https://github.com/reacher-z/ClawBench)][[website](https://claw-bench.com)] — Live-website browser-agent benchmark; 283 tasks (V1 153 + V2 130) across 163 live platforms; two-stage scoring (HTTP-request interception + LLM judge on payload).
 - [ACL'24] [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) [[website](https://appworld.dev/)][[blog](https://appworld.dev/blog)]
 - [ICLR'23] [Task Ambiguity in Humans and Language Models](https://openreview.net/forum?id=QrnDe_9ZFd8) [[code](https://github.com/kunhanda/task_ambiguity)]
 - [SmartPlay : A Benchmark for LLMs as Intelligent Agents](https://openreview.net/forum?id=S2oTVrlcp3)
