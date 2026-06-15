@@ -219,6 +219,11 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 
 - [Lyfe Agents: generative agents for low-cost real-time social interactions](https://openreview.net/forum?id=VaZa8zj0Yw)
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://openreview.net/forum?id=tEAF9LBdgu)
+- [SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation](https://arxiv.org/abs/2504.12722)
+- [CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation](https://arxiv.org/abs/2506.21805)
+- [AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation](https://arxiv.org/abs/2601.00930)
+- [Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation](https://arxiv.org/abs/2604.09549)
+- [PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation](https://arxiv.org/abs/2606.05697)
 
 
 ### Algorithm design
