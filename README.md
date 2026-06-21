@@ -63,6 +63,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 ## Surveys
 - [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432.pdf?trk=public_post_comment-text)
 - [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf)
+- [Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime](https://www.preprints.org/manuscript/202603.1756/v2)
 
 
 ## RL-based agent
