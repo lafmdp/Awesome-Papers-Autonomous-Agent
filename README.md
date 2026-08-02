@@ -180,6 +180,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 - [Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4](https://arxiv.org/abs/2309.17277)
 
 ### Multi-agent (e.g., society, coperation)
+- [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177) [[code](https://github.com/AutoResearch-Factory/Agon)]
 - [CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658)
 - [CoMM: Collaborative Multi-Agent, Multi-Reasoning-Path Prompting for Complex Problem Solving](https://arxiv.org/abs/2404.17729)
 - [Building Cooperative Embodied Agents Modularly with Large Language Models](https://openreview.net/forum?id=EnXJfQqy0K)
@@ -203,6 +204,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 - [CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and Generalization](https://openreview.net/forum?id=d5DGVHMdsC)
 
 ### Benchmark & Dataset
+- [PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting](https://arxiv.org/abs/2606.08878) [[code](https://github.com/AutoResearch-Factory/PerspectiveGap)]
 - [ACL'24] [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) [[website](https://appworld.dev/)][[blog](https://appworld.dev/blog)]
 - [ICLR'23] [Task Ambiguity in Humans and Language Models](https://openreview.net/forum?id=QrnDe_9ZFd8) [[code](https://github.com/kunhanda/task_ambiguity)]
 - [SmartPlay : A Benchmark for LLMs as Intelligent Agents](https://openreview.net/forum?id=S2oTVrlcp3)
@@ -217,6 +219,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 
 ### Applications
 
+- [AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing](https://arxiv.org/abs/2602.17607) [[code](https://github.com/Daviddjddu/Autonumerics)]
 - [Lyfe Agents: generative agents for low-cost real-time social interactions](https://openreview.net/forum?id=VaZa8zj0Yw)
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://openreview.net/forum?id=tEAF9LBdgu)
 
