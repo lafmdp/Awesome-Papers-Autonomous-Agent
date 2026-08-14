@@ -61,6 +61,8 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 ------
 
 ## Surveys
+
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
 - [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432.pdf?trk=public_post_comment-text)
 - [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf)
 
