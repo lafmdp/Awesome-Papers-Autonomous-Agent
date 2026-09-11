@@ -165,6 +165,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 - [Adapting LLM Agents Through Communication](https://openreview.net/forum?id=wOelVq8fwL)
 - [AgentTuning: Enabling Generalized Agent Abilities for LLMs](https://openreview.net/forum?id=OqlmgmS4Wr)
 - [Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization](https://openreview.net/forum?id=KOZu91CzbK)
+- [Steer, Don't Solve: Training Small Critic Models for Large Code Agents](https://arxiv.org/abs/2606.21811)
 
 
 ### Task-specific designing
