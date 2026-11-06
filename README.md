@@ -161,6 +161,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 
 ### Train LLM for generalization & adaptation
 
+- [Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction](https://arxiv.org/abs/2601.12762) [[code](https://github.com/NEUIR/ToolMaster)]
 - [FireAct: Toward Language Agent Finetuning](https://openreview.net/forum?id=RqUMWdDg52)
 - [Adapting LLM Agents Through Communication](https://openreview.net/forum?id=wOelVq8fwL)
 - [AgentTuning: Enabling Generalized Agent Abilities for LLMs](https://openreview.net/forum?id=OqlmgmS4Wr)
@@ -203,6 +204,7 @@ Note that this paper list is **under active maintaince**. Free free to open an i
 - [CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and Generalization](https://openreview.net/forum?id=d5DGVHMdsC)
 
 ### Benchmark & Dataset
+- [EC²-Bench (EC2-Bench): Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution](https://arxiv.org/abs/2610.17816) [[website](https://passionate11.github.io/ec2-bench-project-page/)][[code](https://github.com/OpenBMB/EC2-Bench)][[dataset](https://huggingface.co/datasets/chengpingan/EC2-Bench)]
 - [ACL'24] [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) [[website](https://appworld.dev/)][[blog](https://appworld.dev/blog)]
 - [ICLR'23] [Task Ambiguity in Humans and Language Models](https://openreview.net/forum?id=QrnDe_9ZFd8) [[code](https://github.com/kunhanda/task_ambiguity)]
 - [SmartPlay : A Benchmark for LLMs as Intelligent Agents](https://openreview.net/forum?id=S2oTVrlcp3)
